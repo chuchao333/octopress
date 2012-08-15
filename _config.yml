@@ -7,7 +7,8 @@ title: Chao's Random Thoughts
 subtitle: Keep looking, don't settle
 author: Chao Chu
 simple_search: http://google.com/search
-description:
+description: Notes, idioms, and thoughts on python, cpp development
+keywords: python, cpp, llvm, git, mercurial, linux
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
