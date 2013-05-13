@@ -21,8 +21,11 @@ CS
 Non CS
 ------
 
+
 Books
 =====
+
+* `Structure and Interpretation of Computer Programs </notes/sicp.html>`_
 
 Tools
 =====
