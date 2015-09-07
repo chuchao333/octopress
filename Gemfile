@@ -13,8 +13,9 @@ group :development do
   gem 'sass-globbing', '~> 1.0.0'
   gem 'rb-fsevent', '~> 0.9'
   gem 'stringex', '~> 1.4.0'
-  gem 'liquid', '~> 2.3.0'
+  gem 'liquid', '~> 2.5.5'
   gem 'RbST', '~> 0.1.3'
+  gem 'therubyracer'
 end
 
 gem 'sinatra', '~> 1.4.2'
