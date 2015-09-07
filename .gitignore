@@ -12,3 +12,4 @@ source/_posts
 source/stylesheets/screen.css
 vendor
 node_modules
+Gemfile.lock
